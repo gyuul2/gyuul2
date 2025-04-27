@@ -55,7 +55,8 @@
 
 ## 6. 참고자료
 - 강의 자료 Chapter 1~3 (프롬프트 설계 및 API 호출)
-- [how to convert a string to json](https://www.freecodecamp.org/news/python-json-how-to-convert-a-string-to-json/) 
+- [how to convert a string to json](https://www.freecodecamp.org/news/python-json-how-to-convert-a-string-to-json/)
+- [json 파싱하기](https://schatz37.tistory.com/64)
 
 ## 7. 기타
 - 코드에는 적절한 주석(comment)이 포함되어 있습니다.
